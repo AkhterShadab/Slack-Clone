@@ -1,9 +1,9 @@
-import React from "react";
-import "./Login.css";
-import { Button } from "@material-ui/core";
-import { auth, provider } from "../../firebase";
-import { useStateValue } from "../../StateProvider";
-import { actionTypes } from "../../reducer";
+import React from 'react';
+import './Login.css';
+import { Button } from '@material-ui/core';
+import { auth, provider } from '../../firebase';
+import { useStateValue } from '../../StateProvider';
+import { actionTypes } from '../../reducer';
 
 function Login() {
   const [state, dispatch] = useStateValue();
@@ -28,7 +28,7 @@ function Login() {
           src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg"
           alt=""
         />
-        <h1>Sign in to Geliştiren Kafalar</h1>
+        <h1>Sign in to Slack-clone</h1>
         <Button onClick={signIn}>Sign in with Google</Button>
       </div>
     </div>

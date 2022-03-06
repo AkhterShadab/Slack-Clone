@@ -1,13 +1,14 @@
-import firebase from "firebase";
+import firebase from 'firebase';
 
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCc0rclpltLUOqHkgql_mJcKHpCG3nRF5E",
-  authDomain: "slack-clone-v1.firebaseapp.com",
-  projectId: "slack-clone-v1",
-  storageBucket: "slack-clone-v1.appspot.com",
-  messagingSenderId: "963564600839",
-  appId: "1:963564600839:web:297624d8a499d2345cb4a2",
-  measurementId: "G-YFRHZFTWGH",
+  apiKey: 'AIzaSyDht3z43FfEo8kzmUrMp9CFMv-uxMdMEA0',
+  authDomain: 'slack-clone-8ca9f.firebaseapp.com',
+  projectId: 'slack-clone-8ca9f',
+  storageBucket: 'slack-clone-8ca9f.appspot.com',
+  messagingSenderId: '927412191399',
+  appId: '1:927412191399:web:bb949b6bde73d982155b82',
+  measurementId: 'G-N9K25X25Y1',
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
