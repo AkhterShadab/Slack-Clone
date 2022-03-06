@@ -23,7 +23,7 @@ You can view the site here
 
 ## Author
 
-Özge Coşkun Gürsucu (codermother)
+Shadab_Akhtar
 
 In the project directory, you can run:
 
