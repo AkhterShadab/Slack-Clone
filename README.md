@@ -7,7 +7,7 @@ Click demo to try it by yourself!
 ## Slack Clone Demo Link
 
 You can view the site here
-[Click Me](https://slack-clone-v1.web.app/)
+[Click Me](https://slack-clone-8ca9f.web.app/room/QKKkmVPa0D7ONVIeMkb6)
 
 ## Topics
 
